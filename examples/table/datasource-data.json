@@ -1,0 +1,16 @@
+{
+	"type":"static",
+	"data":[
+		{
+			"firstName":"Sebastian",
+			"lastName":"Jørgensen",
+			"avatar":"http://gravatar.com/avatar/df7755d0164c7955a09c1a7ee6ac6e25"
+		},
+		{
+			"firstName":"Tea",
+			"lastName":"Andersen",
+			"avatar":"http://gravatar.com/avatar/9685037c310465a1409205eb2caf9698"
+		}
+
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"type":"static",
+	"data":[
+		{
+			"firstName":"First Name",
+			"lastName":"Last Name",
+			"avatar":"Avatar"
+		}
+	]
+}

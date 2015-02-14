@@ -1,0 +1,17 @@
+link(rel="stylesheet", href="style.css", type="text/css")
+
+include ../includes/head.jade
+
+table
+	thead
+		tr
+			th=labels.firstName
+			th=labels.lastName
+			th=labels.avatar
+	tbody
+		each d in data
+			tr
+				td=d.firstName
+				td=d.lastName
+				td
+					img(src=d.avatar)
